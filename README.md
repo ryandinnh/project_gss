@@ -1,6 +1,6 @@
 DS3001: Foundations of Machine Learning Project #1 GSS Survey
 
-Group 24 Team Members: Chloe Zhu, Ryan Dinh, Frances Dai, Janice Guo
+Group 24 Team Members: Chloe Zhu (pjn7nn), Ryan Dinh(rqd3qmk), Frances Dai(fad4yr), Janice Guo(vdq8tp)
 
 Instructions to Reproduce our Project:
 - First run notebook gss_data_cleaning.ipynb with the dataset to clean needed variables, after getting the raw dataset from get_gss.ipynb.
